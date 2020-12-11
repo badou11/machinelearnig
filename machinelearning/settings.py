@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'k&j!9_(#mb!*fe$v28o%&n=_mih@-^n7_ch^(z-xrh82os(37#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['machinelearnin.herokuapp.com', '127.0.0.1']
 
